@@ -4,6 +4,7 @@ public class WeightConverter {
 	
 	private static final float CONVERSION_RATE = 2.223f;
 	/*
+	 * 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the weight: ");
