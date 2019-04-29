@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.LeapYearVerifierTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-04-29T11:08:41" hostname="PUNEIS0100798" time="0.002">
+  <properties/>
+  <testcase name="isGivenYearIsNotLeapYearTest" classname="test.LeapYearVerifierTest" time="0.001"/>
+  <testcase name="isGivenYearIsLeapYearTest" classname="test.LeapYearVerifierTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
